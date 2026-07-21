@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://biz-chijnpzxqd1qjsrk65ehidhxo.vercel.app/sitemap.xml
